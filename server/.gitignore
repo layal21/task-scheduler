@@ -1,0 +1,4 @@
+.env
+node_modules
+documenting-mistakes-server.md
+ApiDocs.md
